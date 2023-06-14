@@ -1,4 +1,5 @@
-﻿
+﻿using System.Collections;
+
 void Print(int[] arr)
 {
     foreach(var item in arr)
@@ -100,3 +101,10 @@ foreach(var i in ss)
     Console.WriteLine(i);
 
 Console.WriteLine(ss);
+
+///-------------- Arraylist -----------
+
+ArrayList arrList = new ArrayList(5);
+
+
+
