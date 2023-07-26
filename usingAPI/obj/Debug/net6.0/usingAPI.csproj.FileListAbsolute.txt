@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\class work\lesson_4\usingAPI\obj\Debug\net6.0\usingAPI.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\class work\lesson_4\usingAPI\obj\Debug\net6.0\usingAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\class work\lesson_4\usingAPI\obj\Debug\net6.0\usingAPI.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\class work\lesson_4\usingAPI\obj\Debug\net6.0\usingAPI.AssemblyInfo.cs
+C:\Users\User\source\repos\class work\lesson_4\usingAPI\obj\Debug\net6.0\usingAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\class work\lesson_4\usingAPI\bin\Debug\net6.0\usingAPI.exe
+C:\Users\User\source\repos\class work\lesson_4\usingAPI\bin\Debug\net6.0\usingAPI.deps.json
+C:\Users\User\source\repos\class work\lesson_4\usingAPI\bin\Debug\net6.0\usingAPI.runtimeconfig.json
+C:\Users\User\source\repos\class work\lesson_4\usingAPI\bin\Debug\net6.0\usingAPI.dll
+C:\Users\User\source\repos\class work\lesson_4\usingAPI\bin\Debug\net6.0\usingAPI.pdb
+C:\Users\User\source\repos\class work\lesson_4\usingAPI\obj\Debug\net6.0\usingAPI.dll
+C:\Users\User\source\repos\class work\lesson_4\usingAPI\obj\Debug\net6.0\refint\usingAPI.dll
+C:\Users\User\source\repos\class work\lesson_4\usingAPI\obj\Debug\net6.0\usingAPI.pdb
+C:\Users\User\source\repos\class work\lesson_4\usingAPI\obj\Debug\net6.0\usingAPI.genruntimeconfig.cache
+C:\Users\User\source\repos\class work\lesson_4\usingAPI\obj\Debug\net6.0\ref\usingAPI.dll
