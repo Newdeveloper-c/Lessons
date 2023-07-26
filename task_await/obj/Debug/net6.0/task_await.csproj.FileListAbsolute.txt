@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\class work\lesson_4\task_await\bin\Debug\net6.0\task_await.exe
+C:\Users\User\source\repos\class work\lesson_4\task_await\bin\Debug\net6.0\task_await.deps.json
+C:\Users\User\source\repos\class work\lesson_4\task_await\bin\Debug\net6.0\task_await.runtimeconfig.json
+C:\Users\User\source\repos\class work\lesson_4\task_await\bin\Debug\net6.0\task_await.dll
+C:\Users\User\source\repos\class work\lesson_4\task_await\bin\Debug\net6.0\task_await.pdb
+C:\Users\User\source\repos\class work\lesson_4\task_await\obj\Debug\net6.0\task_await.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\class work\lesson_4\task_await\obj\Debug\net6.0\task_await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\class work\lesson_4\task_await\obj\Debug\net6.0\task_await.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\class work\lesson_4\task_await\obj\Debug\net6.0\task_await.AssemblyInfo.cs
+C:\Users\User\source\repos\class work\lesson_4\task_await\obj\Debug\net6.0\task_await.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\class work\lesson_4\task_await\obj\Debug\net6.0\task_await.dll
+C:\Users\User\source\repos\class work\lesson_4\task_await\obj\Debug\net6.0\refint\task_await.dll
+C:\Users\User\source\repos\class work\lesson_4\task_await\obj\Debug\net6.0\task_await.pdb
+C:\Users\User\source\repos\class work\lesson_4\task_await\obj\Debug\net6.0\task_await.genruntimeconfig.cache
+C:\Users\User\source\repos\class work\lesson_4\task_await\obj\Debug\net6.0\ref\task_await.dll
