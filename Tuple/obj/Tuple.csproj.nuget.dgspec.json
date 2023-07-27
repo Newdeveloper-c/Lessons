@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\Tuple\\Tuple.csproj": {}
+    "C:\\Users\\User\\source\\repos\\Lessons\\Tuple\\Tuple.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\Tuple\\Tuple.csproj": {
+    "C:\\Users\\User\\source\\repos\\Lessons\\Tuple\\Tuple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\Tuple\\Tuple.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Lessons\\Tuple\\Tuple.csproj",
         "projectName": "Tuple",
-        "projectPath": "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\Tuple\\Tuple.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Lessons\\Tuple\\Tuple.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\Tuple\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\Lessons\\Tuple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

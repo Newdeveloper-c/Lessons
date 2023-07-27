@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\Linq\\Linq.csproj": {}
+    "C:\\Users\\User\\source\\repos\\Lessons\\Linq\\Linq.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\Linq\\Linq.csproj": {
+    "C:\\Users\\User\\source\\repos\\Lessons\\Linq\\Linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\Linq\\Linq.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Lessons\\Linq\\Linq.csproj",
         "projectName": "Linq",
-        "projectPath": "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\Linq\\Linq.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Lessons\\Linq\\Linq.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\Linq\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\Lessons\\Linq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

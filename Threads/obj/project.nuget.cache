@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F2pAVlPV+2ugHqJ6FotYWP1nF3kudXisFaITmyPUWyWuVtkdYMeb/U1Y+d/J+pN1EfaX0KPr4A5h+kVIdpFPYQ==",
+  "dgSpecHash": "cts6GAo55BTwaNmjo0yG8nDP5R5nryu3trCuaCBBLX8zBWkpp+98IIJMhhLeVlTUqrTYW1Cj3OkziUhFMJVPHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\Threads\\Threads.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Lessons\\Threads\\Threads.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

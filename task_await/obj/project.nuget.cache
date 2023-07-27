@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dr/A7JHIDizPqE2hv0+lfi+JZWZ00rev/W+YWytedlIz+EOr4C58SBX+D7WfS9/G3DxLyiyFAE7wIeb/S0o75A==",
+  "dgSpecHash": "eykWNWtL3GykP5z/3l/3LwstcKj/STxK9+Mj00NEm4ot0Sgjk56gl8C/Kq1qI2Y/6AHOI9OpRlUZVmws0k5zHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\task_await\\task_await.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Lessons\\task_await\\task_await.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

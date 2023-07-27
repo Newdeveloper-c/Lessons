@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\usingAPI\\usingAPI.csproj": {}
+    "C:\\Users\\User\\source\\repos\\Lessons\\usingAPI\\usingAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\usingAPI\\usingAPI.csproj": {
+    "C:\\Users\\User\\source\\repos\\Lessons\\usingAPI\\usingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\usingAPI\\usingAPI.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Lessons\\usingAPI\\usingAPI.csproj",
         "projectName": "usingAPI",
-        "projectPath": "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\usingAPI\\usingAPI.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Lessons\\usingAPI\\usingAPI.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\usingAPI\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\Lessons\\usingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

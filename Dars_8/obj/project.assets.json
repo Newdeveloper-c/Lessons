@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\Dars_8\\Dars_8.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Lessons\\Dars_8\\Dars_8.csproj",
       "projectName": "Dars_8",
-      "projectPath": "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\Dars_8\\Dars_8.csproj",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\Lessons\\Dars_8\\Dars_8.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\class work\\lesson_4\\Dars_8\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\Lessons\\Dars_8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
